@@ -8,9 +8,7 @@
          <link href="{{asset('css/bootstrap.min.css')}}" rel="stylesheet">
     <link href="{{asset('icons/bootstrap-icons.css')}}" rel="stylesheet">
     <script src="{{asset('js/bootstrap.bundle.js')}}"></script>
-    <script src="{{asset('jquery.min.js')}}"></script>
-    <link href="{{asset('datatables.min.css')}}" rel="stylesheet"/>
-    <script src="{{asset('datatables.min.js')}}"></script>
+    <script src="{{asset('js/jquery.js')}}"></script>
     <script src="{{('https://cdn.tailwindcss.com')}}"></script>
 
         <!-- Fonts -->
